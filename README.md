@@ -160,7 +160,7 @@ Data spans January to April 2024.
 **Harshit Dwivedi**
 
 - GitHub: [@Harshitd13](https://github.com/Harshitd13)
-- LinkedIn: [linkedin.com/in/harshit-dwivedi-88472831a](www.linkedin.com/in/harshit-dwivedi-88472831a)
+- LinkedIn: [linkedin.com/in/harshit-dwivedi-88472831a](https://www.linkedin.com/in/harshit-dwivedi-88472831a)
 
 ---
 
