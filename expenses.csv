@@ -1,0 +1,109 @@
+Date,Category,Description,Amount
+2024-01-01,Food,Grocery shopping at supermarket,850.0
+2024-01-02,Transport,Monthly bus pass,500.0
+2024-01-03,Bills,Electricity bill payment,1200.0
+2024-01-04,Food,Restaurant dinner with family,650.0
+2024-01-05,Entertainment,Netflix subscription,499.0
+2024-01-06,Shopping,Winter jacket purchase,2500.0
+2024-01-07,Health,Pharmacy medicines,320.0
+2024-01-08,Education,Online Python course,1999.0
+2024-01-09,Food,Morning breakfast cafe,180.0
+2024-01-10,Transport,Uber ride to office,250.0
+2024-01-11,Bills,Internet bill,799.0
+2024-01-12,Food,Lunch at food court,350.0
+2024-01-13,Shopping,New shoes,1800.0
+2024-01-14,Health,Doctor consultation fee,500.0
+2024-01-15,Entertainment,Movie tickets,400.0
+2024-01-16,Food,Weekly grocery run,920.0
+2024-01-17,Transport,Auto rickshaw rides,150.0
+2024-01-18,Education,Books purchase,750.0
+2024-01-19,Food,Coffee and snacks,220.0
+2024-01-20,Bills,Mobile recharge,299.0
+2024-01-21,Shopping,Home decor items,1100.0
+2024-01-22,Health,Gym membership,1200.0
+2024-01-23,Entertainment,Spotify premium,119.0
+2024-01-24,Food,Pizza delivery,580.0
+2024-01-25,Transport,Petrol refill,1500.0
+2024-01-26,Bills,Water bill,450.0
+2024-01-27,Food,Swiggy food order,420.0
+2024-01-28,Shopping,Clothing from mall,3200.0
+2024-01-29,Health,Blood test at lab,800.0
+2024-01-30,Education,Udemy course purchase,699.0
+2024-01-31,Food,Monthly grocery bulk buy,2100.0
+2024-02-01,Transport,Metro card recharge,400.0
+2024-02-02,Bills,Gas cylinder booking,950.0
+2024-02-03,Food,Breakfast and lunch,450.0
+2024-02-04,Entertainment,Amazon Prime renewal,1499.0
+2024-02-05,Shopping,Electronics accessories,2200.0
+2024-02-06,Health,Vitamin supplements,650.0
+2024-02-07,Education,Workshop registration,1500.0
+2024-02-08,Food,Dinner at restaurant,780.0
+2024-02-09,Transport,Train ticket booking,1200.0
+2024-02-10,Bills,Electricity bill,1100.0
+2024-02-11,Food,Snacks and beverages,300.0
+2024-02-12,Shopping,Valentine day gift,2800.0
+2024-02-13,Health,Eye checkup,400.0
+2024-02-14,Entertainment,Valentine dinner outing,1800.0
+2024-02-15,Food,Swiggy order,550.0
+2024-02-16,Transport,Ola cab rides,350.0
+2024-02-17,Bills,Internet broadband,799.0
+2024-02-18,Education,Study material,450.0
+2024-02-19,Food,Grocery shopping,875.0
+2024-02-20,Shopping,Sports equipment,1900.0
+2024-02-21,Health,Dental checkup,700.0
+2024-02-22,Entertainment,Concert tickets,2500.0
+2024-02-23,Food,Office lunch expenses,620.0
+2024-02-24,Transport,Parking charges,200.0
+2024-02-25,Bills,Mobile bill postpaid,599.0
+2024-02-26,Food,Zomato order,480.0
+2024-02-27,Shopping,Laptop bag,1500.0
+2024-02-28,Health,Medicine purchase,280.0
+2024-02-29,Education,Library membership,300.0
+2024-03-01,Food,Grocery store visit,940.0
+2024-03-02,Transport,Monthly travel pass,600.0
+2024-03-03,Bills,Electricity bill,1350.0
+2024-03-04,Food,Family outing dinner,1200.0
+2024-03-05,Entertainment,YouTube Premium,189.0
+2024-03-06,Shopping,Kurta and ethnic wear,2200.0
+2024-03-07,Health,Physiotherapy session,800.0
+2024-03-08,Education,Online certification,2999.0
+2024-03-09,Food,Breakfast items,250.0
+2024-03-10,Transport,Fuel for bike,1400.0
+2024-03-11,Bills,Internet bill,799.0
+2024-03-12,Food,Street food evening,180.0
+2024-03-13,Shopping,Holi color shopping,600.0
+2024-03-14,Health,Annual health checkup,1500.0
+2024-03-15,Entertainment,OTT subscription combo,899.0
+2024-03-16,Food,Grocery weekly,880.0
+2024-03-17,Transport,Auto rides,120.0
+2024-03-18,Education,Programming book,850.0
+2024-03-19,Food,Cafe and desserts,340.0
+2024-03-20,Bills,Water and maintenance,550.0
+2024-03-21,Shopping,Summer clothes,2800.0
+2024-03-22,Health,Yoga class monthly fee,1000.0
+2024-03-23,Entertainment,Board game purchase,750.0
+2024-03-24,Food,Swiggy and Zomato,680.0
+2024-03-25,Transport,Cab to airport,900.0
+2024-03-26,Bills,Gas bill,420.0
+2024-03-27,Food,Grocery run,1050.0
+2024-03-28,Shopping,Garden tools,1100.0
+2024-03-29,Health,Protein powder,1800.0
+2024-03-30,Education,Skill development course,1200.0
+2024-03-31,Food,Month end grocery,1900.0
+2024-04-01,Transport,Bus and auto,280.0
+2024-04-02,Bills,Electricity quarterly,2200.0
+2024-04-03,Food,Onam celebration food,1500.0
+2024-04-04,Entertainment,IPL match tickets,3500.0
+2024-04-05,Shopping,New mobile cover,500.0
+2024-04-06,Health,Eye drops and medicines,350.0
+2024-04-07,Education,Data science bootcamp,4999.0
+2024-04-08,Food,Grocery items,820.0
+2024-04-09,Transport,Petrol and parking,1100.0
+2024-04-10,Bills,Internet and cable,1200.0
+2024-04-11,Food,Evening snacks,200.0
+2024-04-12,Shopping,Footwear purchase,2200.0
+2024-04-13,Health,Dermatologist visit,600.0
+2024-04-14,Entertainment,Streaming services,750.0
+2024-04-15,Food,Weekly grocery,950.0
+2026-06-18,Food,Pizza,399.0
+2026-06-18,Shopping,Headphones,7490.0
